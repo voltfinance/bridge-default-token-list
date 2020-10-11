@@ -1,5 +1,5 @@
 {
-  "name": "@fuse/fuse-swap-default-token-list",
+  "name": "@fuseio/fuse-swap-default-token-list",
   "version": "1.0.0",
   "description": "◦ The Fuseswap default token list",
   "main": "build/fuseswap-default.tokenlist.json",
