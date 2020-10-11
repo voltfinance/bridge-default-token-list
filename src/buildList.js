@@ -4,11 +4,13 @@ const ropsten = require('./tokens/ropsten.json');
 const rinkeby = require('./tokens/rinkeby.json');
 const goerli = require('./tokens/goerli.json');
 const kovan = require('./tokens/kovan.json');
+const buildFuseList = require('./buildFuseList');
 
-module.exports = function buildList() {
+module.exports = async function buildList() {
   const parsed = version.split('.');
+  const fuse = await buildFuseList()
   return {
-    'name': 'Uniswap Default List',
+    'name': 'Fuse Token List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
@@ -16,17 +18,16 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir',
+    'logoURI': 'ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9',
     'keywords': [
-      'uniswap',
+      'fuseswap',
+      'fuse',
       'default'
     ],
     tokens: [
       ...mainnet,
       ...ropsten,
-      ...goerli,
-      ...kovan,
-      ...rinkeby
+      ...fuse
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
