@@ -1,5 +1,6 @@
 const mainnet = require('./tokens/mainnet.json');
-const { request, gql } = require('graphql-request')
+const { request, gql } = require('graphql-request');
+const { toChecksumAddress } = require('web3-utils');
 
 async function fetchBridgedTokens(foreignAddresses) {
   const query = gql`{
@@ -22,7 +23,7 @@ async function buildList() {
     const fuseToken = fuseTokens.find(token => token.foreignAddress == mainnetToken.address.toLowerCase());
     if (fuseToken) {
       delete fuseToken.foreignAddress
-      return {...mainnetToken, ...fuseToken, chainId: 122 };
+      return {...mainnetToken, ...fuseToken, address: toChecksumAddress(fuseToken.address), chainId: 122 };
     }
   }).filter(t => t != null);
   return bridgedFuseTokens;

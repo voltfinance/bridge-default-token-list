@@ -9,7 +9,10 @@ const ajv = new Ajv({ allErrors: true, format: 'full' });
 const validator = ajv.compile(schema);
 
 describe('buildList', () => {
-  const defaultTokenList = buildList();
+  let defaultTokenList
+  before(async () => {
+    defaultTokenList = await buildList();
+  })
 
   it('validates', () => {
     expect(validator(defaultTokenList)).to.equal(true);
