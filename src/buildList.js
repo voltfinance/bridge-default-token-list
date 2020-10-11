@@ -18,7 +18,7 @@ module.exports = async function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9',
+    'logoURI': 'ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g',
     'keywords': [
       'fuseswap',
       'fuse',
