@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2020-10-12T17:41:48.053Z",
+  "timestamp": "2020-11-05T13:02:35.657Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -1079,12 +1079,44 @@
       "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token-03.svg"
     },
     {
+      "name": "DAOstack on Fuse",
+      "address": "0xc18c5B6863f6bDb5CE4cB761bA5EC2E1ff6240af",
+      "symbol": "GEN",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf/logo.png"
+    },
+    {
+      "name": "Nexo on Fuse",
+      "address": "0xe4Ee764CB090acF4ABC1454917D9bc54f13aEd79",
+      "symbol": "NEXO",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206/logo.png"
+    },
+    {
       "name": "USD Coin on Fuse",
       "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD on Fuse",
+      "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped BTC on Fuse",
+      "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "name": "Wrapped Ether on Fuse",
