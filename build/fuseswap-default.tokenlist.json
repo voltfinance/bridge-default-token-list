@@ -1,10 +1,10 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2020-11-05T13:05:41.041Z",
+  "timestamp": "2020-11-05T14:48:49.317Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
@@ -285,14 +285,6 @@
       "decimals": 8,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b/logo.png"
-    },
-    {
-      "name": "Fuse Token",
-      "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
-      "symbol": "FUSE",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token-03.svg"
     },
     {
       "name": "Flexacoin",
@@ -1069,14 +1061,6 @@
       "decimals": 6,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png"
-    },
-    {
-      "name": "Fuse Token on Fuse",
-      "address": "0x714005Da6A90F59dD2cF74560ecF4A4BeD5F088A",
-      "symbol": "FUSE",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token-03.svg"
     },
     {
       "name": "DAOstack on Fuse",
