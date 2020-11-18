@@ -320,6 +320,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000b3F879cb30FE243b4Dfee438691c04/logo.png"
   },
   {
+    "name": "GoodDollar",
+    "address": "0x67c5870b4a41d4ebef24d2456547a03f1f3e094b",
+    "symbol": "G$",
+    "decimals": 2,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/etheruem/0x67c5870b4a41d4ebef24d2456547a03f1f3e094b/logo.png"
+  },
+  {
     "name": "HedgeTrade",
     "address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
     "symbol": "HEDG",
