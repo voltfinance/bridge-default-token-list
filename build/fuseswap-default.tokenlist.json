@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2020-11-06T18:19:34.357Z",
+  "timestamp": "2020-11-19T14:40:54.769Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -293,6 +293,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4a57E687b9126435a9B19E4A802113e266AdeBde/logo.png"
+    },
+    {
+      "name": "GoodDollar",
+      "address": "0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B",
+      "symbol": "G$",
+      "decimals": 2,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/etheruem/0x67c5870b4a41d4ebef24d2456547a03f1f3e094b/logo.png"
     },
     {
       "name": "DAOstack",
@@ -1061,6 +1069,14 @@
       "decimals": 6,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png"
+    },
+    {
+      "name": "GoodDollar",
+      "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
+      "symbol": "G$",
+      "decimals": 2,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/mul53/token-assets/main/assets/etheruem/0x67c5870b4a41d4ebef24d2456547a03f1f3e094b/logo.png"
     },
     {
       "name": "DAOstack on Fuse",
