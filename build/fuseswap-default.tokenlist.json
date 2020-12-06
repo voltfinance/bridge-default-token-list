@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2020-11-25T17:40:21.607Z",
+  "timestamp": "2020-12-06T15:54:31.218Z",
   "version": {
     "major": 2,
     "minor": 1,
@@ -285,6 +285,14 @@
       "decimals": 8,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b/logo.png"
+    },
+    {
+      "name": "Fuse",
+      "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+      "symbol": "FUSE",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
     },
     {
       "name": "Flexacoin",
@@ -1055,6 +1063,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
+      "name": "Basic Attention Token on Fuse",
+      "address": "0xC7cFAC488D755e47bb2C08E350871E8B086590Bf",
+      "symbol": "BAT",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
+    },
+    {
       "name": "Dai Stablecoin on Fuse",
       "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
       "symbol": "DAI",
@@ -1069,6 +1085,14 @@
       "decimals": 6,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png"
+    },
+    {
+      "name": "Fuse Token on Fuse",
+      "address": "0x714005Da6A90F59dD2cF74560ecF4A4BeD5F088A",
+      "symbol": "FUSE",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
     },
     {
       "name": "GoodDollar",
