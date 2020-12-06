@@ -21,7 +21,7 @@ async function buildList() {
   const fuseTokens = await fetchBridgedTokens(foreignAddresses);
   const bridgedFuseTokens = mainnet.map(mainnetToken => {
     const fuseToken = fuseTokens.find(token => token.foreignAddress == mainnetToken.address.toLowerCase());
-    if (fuseToken) {
+    if (fuseToken && fuseToken.symbol !== 'FUSE') {
       delete fuseToken.foreignAddress
       return {...mainnetToken, ...fuseToken, address: toChecksumAddress(fuseToken.address), chainId: 122 };
     }
