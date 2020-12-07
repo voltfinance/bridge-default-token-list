@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2020-12-06T16:08:23.698Z",
+  "timestamp": "2020-12-07T10:55:49.647Z",
   "version": {
     "major": 2,
     "minor": 2,
@@ -1085,14 +1085,6 @@
       "decimals": 6,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png"
-    },
-    {
-      "name": "Fuse Token on Fuse",
-      "address": "0x714005Da6A90F59dD2cF74560ecF4A4BeD5F088A",
-      "symbol": "FUSE",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
     },
     {
       "name": "GoodDollar",
