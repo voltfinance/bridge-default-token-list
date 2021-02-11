@@ -1,10 +1,10 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2020-12-07T11:13:29.804Z",
+  "timestamp": "2021-02-11T10:30:37.039Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
@@ -1103,12 +1103,28 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf/logo.png"
     },
     {
+      "name": "Kyber Network Crystal on Fuse",
+      "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
+      "symbol": "KNC",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+    },
+    {
       "name": "Nexo on Fuse",
       "address": "0xe4Ee764CB090acF4ABC1454917D9bc54f13aEd79",
       "symbol": "NEXO",
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206/logo.png"
+    },
+    {
+      "name": "Uniswap on Fuse",
+      "address": "0x2c72dFb220937738ADd112e49e95e2475d0fbf28",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     },
     {
       "name": "USD Coin on Fuse",
