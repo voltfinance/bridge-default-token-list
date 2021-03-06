@@ -1,9 +1,9 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-02-11T10:59:04.178Z",
+  "timestamp": "2021-03-06T10:31:47.864Z",
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -567,6 +567,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e/logo.png"
     },
     {
+      "name": "MANTRA DAO",
+      "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+      "symbol": "OM",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png"
+    },
+    {
       "name": "Orchid",
       "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
       "symbol": "OXT",
@@ -1117,6 +1125,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206/logo.png"
+    },
+    {
+      "name": "MANTRA DAO on Fuse",
+      "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
+      "symbol": "OM",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png"
     },
     {
       "name": "Uniswap on Fuse",
