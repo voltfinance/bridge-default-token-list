@@ -1032,7 +1032,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png"
   },
   {
-    "name": "Graph Token on Fuse",
+    "name": "Graph Token",
     "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
     "symbol": "GRT",
     "decimals": 18,

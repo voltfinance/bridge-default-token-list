@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-03-19T17:00:36.957Z",
+  "timestamp": "2021-03-19T18:16:42.230Z",
   "version": {
     "major": 3,
     "minor": 3,
@@ -335,7 +335,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD/logo.png"
     },
     {
-      "name": "Graph Token on Fuse",
+      "name": "Graph Token",
       "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
       "symbol": "GRT",
       "decimals": 18,
