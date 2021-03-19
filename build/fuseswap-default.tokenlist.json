@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-03-19T18:16:42.230Z",
+  "timestamp": "2021-03-19T20:23:50.267Z",
   "version": {
     "major": 3,
     "minor": 3,
@@ -336,7 +336,7 @@
     },
     {
       "name": "Graph Token",
-      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
       "symbol": "GRT",
       "decimals": 18,
       "chainId": 1,
