@@ -1,6 +1,6 @@
 {
   "name": "@fuseio/fuse-swap-default-token-list",
-  "version": "4.3.0",
+  "version": "4.4.0",
   "description": "◦ The Fuseswap default token list",
   "main": "build/fuseswap-default.tokenlist.json",
   "scripts": {
@@ -32,7 +32,7 @@
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@fuseio/fuse-swap-default-token-list": "^2.0.1",
-    "@uniswap/token-lists": "1.0.0-beta.18",
+    "@fuseio/token-lists": "^1.1.0",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "graphql": "^15.3.0",

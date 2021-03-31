@@ -4,7 +4,8 @@ const ropsten = require('./tokens/ropsten.json');
 const rinkeby = require('./tokens/rinkeby.json');
 const goerli = require('./tokens/goerli.json');
 const kovan = require('./tokens/kovan.json');
-const fuse = require('./tokens/fuse.json')
+const fuse = require('./tokens/fuse.json');
+const binance = require('./tokens/binance.json');
 const buildFuseList = require('./buildFuseList');
 
 module.exports = async function buildList() {
@@ -27,6 +28,7 @@ module.exports = async function buildList() {
     ],
     tokens: [
       ...mainnet,
+      ...binance,
       ...ropsten,
       ...fuseList,
       ...fuse
