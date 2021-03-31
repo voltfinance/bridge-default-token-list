@@ -24,11 +24,11 @@ async function buildList() {
 
   const bridgedFuseTokens = mainnet.map(mainnetToken => {
     const fuseToken = fuseTokens.find(token => token.foreignAddress == mainnetToken.address.toLowerCase());
-    const isMultiBridge = multiBridgeTokens.includes(fuseToken?.address)
+    const multiBridge = multiBridgeTokens.includes(fuseToken?.address) ? { isMultiBridge : true } : {}
     
-    if (fuseToken && fuseToken.address !== '0x714005da6a90f59dd2cf74560ecf4a4bed5f088a') {
+    if (fuseToken && fuseToken.address !== '0x714005da6a90f59dd2cf74560ecf4a4bed5f088a' && fuseToken.address !== '0x6cc56d06b358af0e8b47f229765da6dd81ee1939') {
       delete fuseToken.foreignAddress
-      return {...mainnetToken, ...fuseToken, isMultiBridge, address: toChecksumAddress(fuseToken.address), chainId: 122 };
+      return {...mainnetToken, ...fuseToken, ...multiBridge, address: toChecksumAddress(fuseToken.address), chainId: 122 };
     }
   })
   .filter(t => t != null);

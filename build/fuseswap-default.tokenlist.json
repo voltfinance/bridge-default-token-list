@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-03-31T16:26:33.055Z",
+  "timestamp": "2021-03-31T18:32:52.055Z",
   "version": {
     "major": 4,
     "minor": 4,
@@ -1092,8 +1092,7 @@
       "symbol": "BAT",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
     },
     {
       "name": "Dai Stablecoin on Fuse",
@@ -1101,17 +1100,15 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
       "name": "Digital Rand on Fuse",
-      "address": "0x6Cc56D06b358aF0e8b47F229765da6Dd81eE1939",
+      "address": "0xBfF749Fa790D4Cbb789a63B5e5173E3F877aD237",
       "symbol": "DZAR",
       "decimals": 6,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png"
     },
     {
       "name": "GoodDollar",
@@ -1127,8 +1124,7 @@
       "symbol": "GEN",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf/logo.png"
     },
     {
       "name": "Graph Token on Fuse",
@@ -1136,8 +1132,7 @@
       "symbol": "GRT",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
     },
     {
       "name": "Kyber Network Crystal on Fuse",
@@ -1145,8 +1140,7 @@
       "symbol": "KNC",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
     },
     {
       "name": "ChainLink Token on Fuse",
@@ -1154,8 +1148,7 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
       "name": "Nexo on Fuse",
@@ -1163,8 +1156,7 @@
       "symbol": "NEXO",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206/logo.png"
     },
     {
       "name": "MANTRA DAO on Fuse",
@@ -1172,8 +1164,7 @@
       "symbol": "OM",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png"
     },
     {
       "name": "Uniswap on Fuse",
@@ -1181,8 +1172,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
-      "isMultiBridge": false
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     },
     {
       "name": "USD Coin on Fuse",
@@ -1190,8 +1180,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "Tether USD on Fuse",
@@ -1199,8 +1188,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "name": "Wrapped BTC on Fuse",
@@ -1208,8 +1196,7 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-      "isMultiBridge": false
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "name": "Wrapped Ether on Fuse",
