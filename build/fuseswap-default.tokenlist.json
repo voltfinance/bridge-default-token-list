@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-03-31T16:02:37.332Z",
+  "timestamp": "2021-03-31T16:26:33.055Z",
   "version": {
     "major": 4,
     "minor": 4,
@@ -1079,9 +1079,9 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
-      "name": "Wrapped Ether on Binance",
+      "name": "Ethereum Token",
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-      "symbol": "WETH",
+      "symbol": "ETH",
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
