@@ -1,9 +1,9 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-03-19T20:23:50.267Z",
+  "timestamp": "2021-03-31T18:32:52.055Z",
   "version": {
-    "major": 3,
-    "minor": 3,
+    "major": 4,
+    "minor": 4,
     "patch": 0
   },
   "tags": {},
@@ -1079,6 +1079,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
+      "name": "Ethereum Token",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
       "name": "Basic Attention Token on Fuse",
       "address": "0xC7cFAC488D755e47bb2C08E350871E8B086590Bf",
       "symbol": "BAT",
@@ -1192,11 +1200,21 @@
     },
     {
       "name": "Wrapped Ether on Fuse",
-      "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
+      "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "isMultiBridge": true
+    },
+    {
+      "name": "Wrapped Ether on Fuse",
+      "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
+      "symbol": "WETH (Deprecated)",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "isDeprecated": true
     }
   ]
 }
