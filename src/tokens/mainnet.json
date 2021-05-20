@@ -1021,7 +1021,7 @@
     "symbol": "FUSE",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://fuse-brand-assets.s3.eu-central-1.amazonaws.com/fuse.png"
+    "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token.png"
   },
   {
     "name": "MANTRA DAO",
