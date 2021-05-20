@@ -1,9 +1,9 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-04-14T09:49:19.967Z",
+  "timestamp": "2021-05-20T15:45:00.420Z",
   "version": {
     "major": 4,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "tags": {},
@@ -292,7 +292,7 @@
       "symbol": "FUSE",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
+      "logoURI": "https://fuse-brand-assets.s3.eu-central-1.amazonaws.com/fuse.png"
     },
     {
       "name": "Flexacoin",
@@ -1092,7 +1092,7 @@
       "symbol": "FUSE",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
+      "logoURI": "https://fuse-brand-assets.s3.eu-central-1.amazonaws.com/fuse.png"
     },
     {
       "name": "Basic Attention Token on Fuse",
@@ -1101,6 +1101,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
+    },
+    {
+      "name": "BNB on Fuse",
+      "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8c77482e45F1F44dE1745F52C74426C631bDD52/logo.png"
     },
     {
       "name": "Dai Stablecoin on Fuse",
