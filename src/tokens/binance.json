@@ -13,6 +13,6 @@
     "symbol": "FUSE",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
+    "logoURI": "https://fuse-brand-assets.s3.eu-central-1.amazonaws.com/fuse.png"
   }
 ]
