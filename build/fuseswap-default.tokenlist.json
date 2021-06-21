@@ -1,9 +1,9 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-05-20T15:45:00.420Z",
+  "timestamp": "2021-06-21T16:54:15.441Z",
   "version": {
     "major": 4,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tags": {},
@@ -207,6 +207,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Cf0Ee63788A0849fE5297F3407f701E122cC023/logo.png"
     },
     {
+      "name": "DEXTools on Fuse",
+      "address": "0x26CE25148832C04f3d7F26F32478a9fe55197166",
+      "symbol": "DEXT",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26CE25148832C04f3d7F26F32478a9fe55197166/logo.png"
+    },
+    {
       "name": "DigixDAO",
       "address": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
       "symbol": "DGD",
@@ -292,7 +300,7 @@
       "symbol": "FUSE",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://fuse-brand-assets.s3.eu-central-1.amazonaws.com/fuse.png"
+      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token.png"
     },
     {
       "name": "Flexacoin",
@@ -1092,7 +1100,7 @@
       "symbol": "FUSE",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://fuse-brand-assets.s3.eu-central-1.amazonaws.com/fuse.png"
+      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token.png"
     },
     {
       "name": "Basic Attention Token on Fuse",
@@ -1117,6 +1125,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "DEXTools on Fuse",
+      "address": "0x92c9DD8F3C443d75949A1B46F2878cacc1089de5",
+      "symbol": "DEXT",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26CE25148832C04f3d7F26F32478a9fe55197166/logo.png"
     },
     {
       "name": "Digital Rand on Fuse",
