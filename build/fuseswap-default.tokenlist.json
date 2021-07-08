@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-07-07T16:55:00.094Z",
+  "timestamp": "2021-07-08T07:30:17.027Z",
   "version": {
     "major": 5,
     "minor": 8,
@@ -207,7 +207,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Cf0Ee63788A0849fE5297F3407f701E122cC023/logo.png"
     },
     {
-      "name": "DEXTools on Fuse",
+      "name": "DEXTools",
       "address": "0xfB7B4564402E5500dB5bB6d63Ae671302777C75a",
       "symbol": "DEXT",
       "decimals": 18,
