@@ -1,6 +1,6 @@
 {
   "name": "@fuseio/fuse-swap-default-token-list",
-  "version": "5.8.0",
+  "version": "5.9.0",
   "description": "◦ The Fuseswap default token list",
   "main": "build/fuseswap-default.tokenlist.json",
   "scripts": {
