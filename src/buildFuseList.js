@@ -16,7 +16,7 @@ async function fetchBridgedTokens(foreignAddresses) {
   return response.bridgedTokens
 }
 
-const multiBridgeTokens = ['0xa722c13135930332eb3d749b2f0906559d2c5b99']
+const multiBridgeTokens = ['0xa722c13135930332eb3d749b2f0906559d2c5b99', '0x6a5f6a8121592becd6747a38d67451b310f7f156']
 
 async function buildList() {
   const foreignAddresses = mainnet.map(token => token.address);
