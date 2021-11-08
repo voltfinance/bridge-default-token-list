@@ -1,6 +1,6 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-11-07T23:19:29.697Z",
+  "timestamp": "2021-11-08T09:26:40.360Z",
   "version": {
     "major": 5,
     "minor": 9,
@@ -117,6 +117,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd/logo.png"
+    },
+    {
+      "name": "Binance USD",
+      "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
     },
     {
       "name": "bZx Protocol Token",
@@ -1132,7 +1140,8 @@
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png",
+      "isMultiBridge": true
     },
     {
       "name": "Dai Stablecoin on Fuse",
