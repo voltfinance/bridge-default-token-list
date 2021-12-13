@@ -12,7 +12,7 @@ async function fetchBridgedTokens(foreignAddresses) {
       foreignAddress
     }
   }`
-  const response = await request('https://graph.fuse.io/subgraphs/name/fuseio/fuse-ethereum-bridge', query)
+  const response = await request('https://api.thegraph.com/subgraphs/name/fuseio/fuse-ethereum-bridged-tokens', query)
   return response.bridgedTokens
 }
 

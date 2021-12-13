@@ -1,9 +1,9 @@
 {
   "name": "Fuse Token List",
-  "timestamp": "2021-11-08T09:26:40.360Z",
+  "timestamp": "2021-12-13T12:32:48.637Z",
   "version": {
     "major": 5,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
   "tags": {},
@@ -863,6 +863,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
     },
     {
+      "name": "SushiToken",
+      "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+    },
+    {
       "name": "Synth sXAU",
       "address": "0x261EfCdD24CeA98652B9700800a13DfBca4103fF",
       "symbol": "sXAU",
@@ -1238,6 +1246,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb/logo.png"
+    },
+    {
+      "name": "SushiToken on Fuse",
+      "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
     },
     {
       "name": "Uniswap on Fuse",
