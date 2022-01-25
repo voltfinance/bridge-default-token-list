@@ -1,18 +1,13 @@
 const { version } = require('../package.json');
 const mainnet = require('./tokens/mainnet.json');
 const ropsten = require('./tokens/ropsten.json');
-const rinkeby = require('./tokens/rinkeby.json');
-const goerli = require('./tokens/goerli.json');
-const kovan = require('./tokens/kovan.json');
 const fuse = require('./tokens/fuse.json');
 const binance = require('./tokens/binance.json');
-const buildFuseList = require('./buildFuseList');
 
 module.exports = async function buildList() {
   const parsed = version.split('.');
-  const fuseList = await buildFuseList()
   return {
-    'name': 'Fuse Token List',
+    'name': 'Voltage Token List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
@@ -22,7 +17,7 @@ module.exports = async function buildList() {
     'tags': {},
     'logoURI': 'ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g',
     'keywords': [
-      'fuseswap',
+      'voltage',
       'fuse',
       'default'
     ],
@@ -30,7 +25,6 @@ module.exports = async function buildList() {
       ...mainnet,
       ...binance,
       ...ropsten,
-      ...fuseList,
       ...fuse
     ]
       // sort them by symbol for easy readability
