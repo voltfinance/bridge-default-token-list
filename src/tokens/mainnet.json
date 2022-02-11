@@ -86,5 +86,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404/logo.png"
+  },
+  {
+    "name": "Dogelon",
+    "address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+    "symbol": "ELON",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png"
   }
 ]
