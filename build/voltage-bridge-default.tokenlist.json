@@ -1,13 +1,13 @@
 {
   "name": "Voltage Bridge List",
-  "timestamp": "2022-02-28T09:58:16.138Z",
+  "timestamp": "2022-02-28T14:56:47.134Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
-  "logoURI": "ipfs://QmQQGd3Kbb8fhxKQLvzPPngzBGd5aydV3QAigLHy53Hr3g",
+  "logoURI": "ipfs://QmW1FfDUC5ZQU7djqULk8cu7ZBxP9i8PCCN3vfS4fg7uBs",
   "keywords": [
     "voltage",
     "fuse",
