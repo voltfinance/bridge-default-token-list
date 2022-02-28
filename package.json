@@ -1,34 +1,32 @@
 {
-  "name": "@fuseio/fuse-swap-default-token-list",
-  "version": "6.13.0",
+  "name": "@voltage-finance/bridge-default-token-list",
+  "version": "1.0.0",
   "description": "◦ The voltage.finance default token list",
-  "main": "build/fuseswap-default.tokenlist.json",
+  "main": "build/voltage-bridge-default.tokenlist.json",
   "scripts": {
     "test": "mocha --timeout 10000",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/fuseswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/voltage-bridge-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/fuseswap-default.tokenlist.json"
+    "build/voltage-bridge-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fuseio/default-token-list.git"
+    "url": "git+https://github.com/voltfinance/bridge-default-token-list.git"
   },
   "keywords": [
-    "fuse",
-    "fuseswap",
-    "uniswap",
+    "voltage",
     "default",
     "token",
     "list"
   ],
-  "author": "fuseio",
+  "author": "voltfinance",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/fuseio/default-token-list/issues"
+    "url": "https://github.com/voltfinance/bridge-default-token-list/issues"
   },
-  "homepage": "https://github.com/fuseio/default-token-list#readme",
+  "homepage": "https://github.com/voltfinance/bridge-default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@fuseio/fuse-swap-default-token-list": "^2.0.1",

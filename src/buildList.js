@@ -7,7 +7,7 @@ const binance = require('./tokens/binance.json');
 module.exports = async function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'Voltage Token List',
+    'name': 'Voltage Bridge List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],

@@ -1,9 +1,9 @@
 {
-  "name": "Voltage Token List",
-  "timestamp": "2022-02-11T11:01:19.314Z",
+  "name": "Voltage Bridge List",
+  "timestamp": "2022-02-28T09:58:16.138Z",
   "version": {
-    "major": 6,
-    "minor": 13,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   },
   "tags": {},
