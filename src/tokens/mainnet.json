@@ -45,7 +45,7 @@
     "symbol": "FUSE",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.png"
   },
   {
     "name": "MANTRA DAO",

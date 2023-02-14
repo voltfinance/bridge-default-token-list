@@ -1,10 +1,10 @@
 {
   "name": "Voltage Bridge List",
-  "timestamp": "2022-11-24T08:45:36.683Z",
+  "timestamp": "2023-02-14T10:34:59.571Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmW1FfDUC5ZQU7djqULk8cu7ZBxP9i8PCCN3vfS4fg7uBs",
@@ -52,7 +52,7 @@
       "symbol": "FUSE",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token.png"
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.png"
     },
     {
       "name": "GoodDollar",
@@ -164,7 +164,7 @@
       "symbol": "FUSE",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/fuse-token.png"
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.png"
     },
     {
       "name": "BNB on Fuse",
