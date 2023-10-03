@@ -48,52 +48,12 @@
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.png"
   },
   {
-    "name": "MANTRA DAO",
-    "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
-    "symbol": "OM",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3593D125a4f7849a1B059E64F4517A86Dd60c95d/logo.png"
-  },
-  {
-    "name": "DEXTools",
-    "address": "0xfB7B4564402E5500dB5bB6d63Ae671302777C75a",
-    "symbol": "DEXT",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x26CE25148832C04f3d7F26F32478a9fe55197166/logo.png"
-  },
-  {
     "name": "Binance USD",
     "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
-  },
-  {
-    "name": "SushiToken",
-    "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
-  },
-  {
-    "name": "oneFUSE",
-    "address": "0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404",
-    "symbol": "oneFUSE",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404/logo.png"
-  },
-  {
-    "name": "Dogelon",
-    "address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
-    "symbol": "ELON",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png"
   },
   {
     "name": "Bitazza",
